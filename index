@@ -1,0 +1,6 @@
+// Save data
+localStorage.setItem('key', 'value');
+
+// Retrieve data
+let data = localStorage.getItem('key');
+console.log(data);
